@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Adaumir Costa</h1>
-<h3 align="center">Um apaixonado desenvolvedor Backend do Brasil</h3>
+<h3 align="center">Um apaixonado desenvolvedor Backend no Brasil</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=adaumircosta&label=Profile%20views&color=0e75b6&style=flat" alt="adaumircosta" />
